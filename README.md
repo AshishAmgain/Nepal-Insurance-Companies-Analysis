@@ -1,6 +1,8 @@
 ![image alt](images/finindicatorsvis4.png)
+![image alt](images/finindicatorsvis1.png)
+![image alt](images/bonusratevisualization.png)
 # Nepal-Insurance-Companies-Analysis
-This project analyzes Nepalese insurance companies using Power BI for visualization. It aims to uncover industry trends of insurance companies over the past 5 years.
+This project analyses Nepalese insurance companies using Power BI for visualisation. It aims to uncover industry trends of insurance companies over the past 5 years.
 
 📌 Objectives
 - Analyse the major financial indicators and performance of insurance companies. (Past 5 years Data)
@@ -9,7 +11,7 @@ This project analyzes Nepalese insurance companies using Power BI for visualizat
 - Analyse Bonus Rates (Past 5 years Data)
 - Analyse the number of Policies  (Past 5 years Data)
 
-Visualise all the above data .
+Visualise all the above data.
 
 Compare different insurance companies based on various factors.
 
@@ -22,7 +24,7 @@ Excel/CSV – Data collection and preprocessing.
 
 
 📂 Data Sources
-Publicly available financial reports of insurance companies.
+Publicly available reports of insurance companies.
 
 Government and regulatory body datasets.
 
