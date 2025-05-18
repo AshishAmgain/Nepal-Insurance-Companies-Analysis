@@ -1,17 +1,21 @@
 # Nepal-Insurance-Companies-Analysis
-This project analyzes Nepalese insurance companies using Power BI for visualization. It aims to uncover industry trends, market share, and key financial insights.
+This project analyzes Nepalese insurance companies using Power BI for visualization. It aims to uncover industry trends of insurance companies over the past 5 years.
 
 📌 Objectives
-Analyze the major financial indicators and performance of insurance companies.
+- Analyse the major financial indicators and performance of insurance companies. (Past 5 years Data)
+- Analyse the Claim Under Different Categories (Past 5 years Data)
+- Analyse Gross Earned Premiums (Past 5 years Data)
+- Analyse Bonus Rates (Past 5 years Data)
+- Analyse the number of Policies  (Past 5 years Data)
 
-Visualize key metrics such as Net Profit, ROE (Return on Equity), Net Worth, PE Ratio (Price-to-Earnings Ratio), EPS (Earnings Per Share), DPS (Dividends Per Share), MPPS (Market Price Per Share), ROA (Return on Assets), Liquidity Ratio, Loss Ratio
+Visualise all the above data .
 
 Compare different insurance companies based on various factors.
 
 Identify potential growth opportunities in the Nepalese insurance sector.
 
 🛠️ Tools & Technologies
-Power BI – For data visualization and dashboard creation.
+Power BI – For data visualisation and dashboard creation.
 
 Excel/CSV – Data collection and preprocessing.
 
