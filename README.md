@@ -1,4 +1,4 @@
-![image alt](https://github.com/AshishAmgain/SalesDashboard/blob/442325be38c03b8479a4394dcc6d4310a55854cb/Screenshot%202025-03-19%20155333.png)
+![image alt](images/finindicatorsvis4.png)
 # Nepal-Insurance-Companies-Analysis
 This project analyzes Nepalese insurance companies using Power BI for visualization. It aims to uncover industry trends of insurance companies over the past 5 years.
 
